@@ -1,0 +1,89 @@
+@import "null.css";
+.wrapper {
+	font-family: "Ubuntu", sans-serif;
+	font-size: 16px;
+	color: #22356f;
+	line-height: 160%;
+	min-height: 100%;
+	overflow: hidden;
+}
+.container {
+	max-width: 1020px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+.header {
+}
+.menu {
+	text-align: center;
+}
+.menu ul li {
+	display: inline-block;
+	margin: 0 30px;
+}
+.main p {
+	margin: 0 0 10px 0;
+}
+.image {
+	width: 500px;
+	padding: 0 0 0 20px;
+	margin: 20px 0;
+}
+.head {
+	text-align: center;
+	font-size: 46px;
+	margin: 10px 0 15px;
+}
+.head-block {
+	text-align: center;
+	font-size: 24px;
+	margin: 5px 0;
+}
+.test p {
+	max-height: 100px;
+	overflow: scroll;
+}
+.text {
+	min-width: 2000px;
+}
+
+/*======================Макет===========================*/
+.wrapper-maket {
+	font-family: "Lato", sans-serif;
+	font-size: 16px;
+	color: #424551;
+	min-height: 100%;
+	overflow: hidden;
+}
+.wrapper-container {
+	max-width: 810px;
+	margin: 0 auto;
+	padding: 0 12px;
+}
+.header-maket {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+	margin: 0 0 92px;
+}
+.image-maket {
+	margin: 0 0 60px 0;
+}
+.text-bold {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+	margin: 0 0 24px 0;
+}
+.special {
+	padding: 24px 0 24px 58px;
+}
+.text-regular {
+	line-height: 160%;
+	margin: 0 0 24px 0;
+}
+ul.text-regular {
+	padding: 0 0 0 32px;
+}
